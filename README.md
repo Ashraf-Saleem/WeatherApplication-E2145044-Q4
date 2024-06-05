@@ -2,12 +2,12 @@ M.S.M.ASHRAF – E2145044
  Weather Application
  Question 4
  
-   QUEST
+   
  
   **Overview**
    This Android application displays the current weather information for the user's location. It fetches the user's latitude and longitude, reverse geo-codes the address, and displays the current system time. The weather information, including temperature, humidity, and a description, is fetched from the OpenWeatherMap API.
 
-    **Features**
+   **Features**
  •Reverse geo-coded address of the user's location
  •Current system time
  •Weather information including temperature, humidity, and weather description
