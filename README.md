@@ -14,6 +14,7 @@ M.S.M.ASHRAF – E2145044
  •Search bar to find weather information for any location
 
 **Screenshots**
+
 ![image](https://github.com/Ashraf-Saleem/WeatherApplication-E2145044-Q4/assets/139708522/ed12c8a3-a432-4b0f-97dd-72eca9e3b769)
 Before searching the location
 
